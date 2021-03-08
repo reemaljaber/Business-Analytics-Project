@@ -8,4 +8,4 @@ i have completed my own data analysis and created a presentation to share my fin
 I used data set containing financial performance data from companies listed in NYSE S&P.
 
 # Credits
-Introduction to Data_Business Analytics - Udacity
+Introduction to Data - Business Analytics - Udacity
